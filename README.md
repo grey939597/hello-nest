@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Note
+Controller: url을 가져오는 역할, appService에서 가져온 함수 실행
+Service: controller에서 사용할 함수 정의, 비즈니스 로직을 실행하는 역할
