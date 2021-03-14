@@ -79,4 +79,5 @@ DTO: Data Transfer Object
 class-transformer: 데이터 형변환
 class-validator: 유효성 검사
 @nestjs/mapped-types: required만 false로 바꿔서 extends
-Dependency Injection: 
+Dependency Injection
+.spec: UNIT TESTING
