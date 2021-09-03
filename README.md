@@ -73,6 +73,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 ## Note
+
 Controller: url을 가져오는 역할, appService에서 가져온 함수 실행
 Service: controller에서 사용할 함수 정의, 비즈니스 로직을 실행하는 역할
 DTO: Data Transfer Object
@@ -81,3 +82,5 @@ class-validator: 유효성 검사
 @nestjs/mapped-types: required만 false로 바꿔서 extends
 Dependency Injection
 .spec: UNIT TESTING
+
+## Etc
